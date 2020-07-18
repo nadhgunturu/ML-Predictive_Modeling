@@ -2,7 +2,7 @@
 
 Creditcard_Fraud_Detection_using_Predictive_Modeling
 
-Hit on Project Code
+Click on Project Code
 
 Requirement : Anaconda - Jupyter Notebook
 
